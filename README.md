@@ -8,7 +8,7 @@ I have been a software developer since the beginning of time. I work like a swis
 
 * 🌍  I'm based in Panama
 * ✉️  You can contact me at [e.paternina@softd3v.com](mailto:e.paternina@softd3v.com)
-* 🧠  I'm learning Flask
+* 🧠  I'm always learning.
 
 ### Skills
 
