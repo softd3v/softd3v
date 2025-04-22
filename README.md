@@ -4,7 +4,7 @@ Hi 👋 My name is Emmanuel Paternina
 Web Developer
 -------------
 
-I have been a software developer since the beginning of time. I work like a swiss army knife (Full Stack Developer) in softd3v. We are creating solutions for small businesses.
+Software Developer with full-stack capabilities at softd3v, where we develop solutions for small businesses.
 
 * 🌍  I'm based in Panama
 * ✉️  You can contact me at [e.paternina@softd3v.com](mailto:e.paternina@softd3v.com)
