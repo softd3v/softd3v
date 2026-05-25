@@ -1,4 +1,4 @@
-Hi 👋 My name is Emmanuel Paternina
+Emmanuel Paternina
 ===================================
 
 Web Developer
