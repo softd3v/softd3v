@@ -1,4 +1,4 @@
-<h1 align="center">Pater</h1>
+<h1 align="left">Pater</h1>
 
 ### 💻 About Me
 
