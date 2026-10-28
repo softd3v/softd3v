@@ -1,12 +1,4 @@
-<h1 align="center">Hi, I'm Emmanuel Paternina 👋</h1>
-<h3 align="center">Software Developer</h3>
-
-<p align="center">
-  🌍 Based in Panama &nbsp;&bull;&nbsp; 
-  ✉️ <a href="mailto:e.paternina@softd3v.com">e.paternina@softd3v.com</a>
-</p>
-
----
+<h1 align="center">Pater</h1>
 
 ### 💻 About Me
 
